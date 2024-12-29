@@ -37,8 +37,8 @@ For support or inquiries, please contact us at:
 This plugin includes anti-decompile measures to protect the source code from unauthorized access and modification. If you encounter any issues related to decompilation, please reach out to the contact methods provided above.
 
 ### Credits
-- Developer: [Your Name]
-- Contributors: [List of Contributors]
+- Developer: REFLX
+- Contributors: None
 
 ### Changelog
 - Version 1.0: Initial release with basic VIP features.
@@ -86,8 +86,8 @@ Pentru suport sau întrebări, vă rugăm să ne contactați la:
 Acest plugin include măsuri anti-decompilare pentru a proteja codul sursă de accesul și modificarea neautorizată. Dacă întâmpinați probleme legate de decompilare, vă rugăm să ne contactați prin metodele de contact furnizate mai sus.
 
 ### Credite
-- Dezvoltator: [Numele tău]
-- Contribuitori: [Lista contribuitorilor]
+- Dezvoltator: REFLX
+- Contribuitori: Niciunul
 
 ### Jurnal de modificări
 - Versiunea 1.0: Lansare inițială cu funcții VIP de bază.
@@ -135,8 +135,8 @@ Pour le support ou les questions, veuillez nous contacter à:
 Ce plugin inclut des mesures anti-décompilation pour protéger le code source contre l'accès et la modification non autorisés. Si vous rencontrez des problèmes liés à la décompilation, veuillez nous contacter via les méthodes de contact fournies ci-dessus.
 
 ### Crédits
-- Développeur: [Votre Nom]
-- Contributeurs: [Liste des Contributeurs]
+- Développeur: REFLX
+- Contributeurs: Aucun
 
 ### Journal des modifications
 - Version 1.0: Première version avec des fonctionnalités VIP de base.
@@ -184,8 +184,8 @@ Para soporte o consultas, por favor contáctenos en:
 Este plugin incluye medidas anti-descompilación para proteger el código fuente contra el acceso y la modificación no autorizados. Si encuentra algún problema relacionado con la descompilación, por favor contáctenos a través de los métodos de contacto proporcionados anteriormente.
 
 ### Créditos
-- Desarrollador: [Su Nombre]
-- Contribuyentes: [Lista de Contribuyentes]
+- Desarrollador: REFLX
+- Contribuyentes: Ninguno
 
 ### Registro de cambios
 - Versión 1.0: Lanzamiento inicial con características VIP básicas.
@@ -233,8 +233,8 @@ Für Unterstützung oder Anfragen kontaktieren Sie uns bitte unter:
 Dieses Plugin enthält Maßnahmen zum Schutz vor Dekompilierung, um den Quellcode vor unbefugtem Zugriff und Änderungen zu schützen. Wenn Sie Probleme im Zusammenhang mit der Dekompilierung haben, kontaktieren Sie uns bitte über die oben angegebenen Kontaktmethoden.
 
 ### Credits
-- Entwickler: [Ihr Name]
-- Mitwirkende: [Liste der Mitwirkenden]
+- Entwickler: REFLX
+- Mitwirkende: Keine
 
 ### Änderungsprotokoll
 - Version 1.0: Erstveröffentlichung mit grundlegenden VIP-Funktionen.
@@ -282,8 +282,8 @@ Per supporto o domande, ti preghiamo di contattarci a:
 Questo plugin include misure anti-decompilazione per proteggere il codice sorgente dall'accesso e dalla modifica non autorizzati. Se riscontri problemi relativi alla decompilazione, ti preghiamo di contattarci tramite i metodi di contatto forniti sopra.
 
 ### Crediti
-- Sviluppatore: [Il tuo nome]
-- Contributori: [Elenco dei contributori]
+- Sviluppatore: REFLX
+- Contributori: Nessuno
 
 ### Registro delle modifiche
 - Versione 1.0: Rilascio iniziale con funzionalità VIP di base.
@@ -331,8 +331,8 @@ Para suporte ou dúvidas, por favor, entre em contato conosco em:
 Este plugin inclui medidas anti-descompilação para proteger o código-fonte contra acesso e modificação não autorizados. Se você encontrar algum problema relacionado à descompilação, por favor, entre em contato conosco através dos métodos de contato fornecidos acima.
 
 ### Créditos
-- Desenvolvedor: [Seu Nome]
-- Contribuidores: [Lista de Contribuidores]
+- Desenvolvedor: REFLX
+- Contribuidores: Nenhum
 
 ### Registro de alterações
 - Versão 1.0: Lançamento inicial com funcionalidades VIP básicas.
@@ -380,8 +380,8 @@ W celu uzyskania wsparcia lub zapytań prosimy o kontakt:
 Ten plugin zawiera środki ochrony przed dekompilacją, aby chronić kod źródłowy przed nieautoryzowanym dostępem i modyfikacją. Jeśli napotkasz jakiekolwiek problemy związane z dekompilacją, prosimy o kontakt za pomocą podanych powyżej metod kontaktu.
 
 ### Podziękowania
-- Deweloper: [Twoje Imię]
-- Współtwórcy: [Lista Współtwórców]
+- Deweloper: REFLX
+- Współtwórcy: Żaden
 
 ### Dziennik zmian
 - Wersja 1.0: Pierwsze wydanie z podstawowymi funkcjami VIP.
